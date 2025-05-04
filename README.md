@@ -1,4 +1,4 @@
-# Hello Reactive WebFilter
+# Hello Reactive Spring Base
 
 A Spring Boot WebFlux application demonstrating reactive programming with a focus on cross-cutting concerns like request/response filtering, distributed tracing, and structured logging.
 
